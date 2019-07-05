@@ -8,7 +8,9 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.white,
         appBar: AppBar(
+          brightness: Brightness.dark,
           title: Text(
+
             'Greeting App',
             style: TextStyle(
                 fontSize: 30, fontWeight: FontWeight.bold, color: Colors.black),
