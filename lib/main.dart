@@ -13,7 +13,7 @@ void main() {
             style: TextStyle(
                 fontSize: 30, fontWeight: FontWeight.bold, color: Colors.black),
           ),
-          backgroundColor: Colors.lime,
+          backgroundColor: Colors.teal,
         ),
 
          body: GreetApp(),
