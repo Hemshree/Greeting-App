@@ -8,7 +8,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.deepPurpleAccent,
         appBar: AppBar(
-          brightness: Brightness.light,
+          brightness: Brightness.dark,
           title: Text(
 
             'Greeting App',
