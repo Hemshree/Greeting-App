@@ -6,7 +6,7 @@ void main() {
   runApp(MaterialApp(
       title: 'Greeting App',
       home: Scaffold(
-        backgroundColor: Colors.teal,
+        backgroundColor: Colors.grey,
         appBar: AppBar(
           brightness: Brightness.light,
           title: Text(
